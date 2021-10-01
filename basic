@@ -1,3 +1,9 @@
+#This is a code to find the basic expantion of Binomial theorem.
+#However, this does not work with big numbers currently working on it. 
+#Also workiing on basic nCr and nPr calculator. Will try not to use geeks for geeks. 
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
  
